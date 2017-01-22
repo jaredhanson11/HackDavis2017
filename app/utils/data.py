@@ -39,22 +39,23 @@ def get_data(length=30, interval=5):
     # https://bldg-pi-api.ou.ad3.ucdavis.edu/piwebapi/streams/P09KoOKByvc0-uxyvoTV1UfQViQAAAVVRJTC1QSS1QXEFSQ19TVEVBTV9ERU1BTkRfS0JUVQ/interpolated?startTime=*-30d&interval=1m
 
     # dummy data for now
-    electricity_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1m_elec.json').read())['Items']
-    steam_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1m_steam.json').read())['Items']
-    water_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1m_cwater.json').read())['Items']
-    temp_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1m_airtemp.json').read())['Items']
+    electricity_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_elec.json').read())['Items']
+    steam_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_steam.json').read())['Items']
+    # water_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1m_cwater.json').read())['Items']
+    total_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_total.json').read())['Items']
+    temp_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_airtemp.json').read())['Items']
 
     electricity_data_list = []
     steam_data_list = []
-    water_data_list = []
+    total_data_list = []
     temp_data_list = []
     time_list = get_time(electricity_data)
 
     for i in range(len(electricity_data)):
         electricity_data_list.append(electricity_data[i]["Value"])
         steam_data_list.append(steam_data[i]["Value"])
-        water_data_list.append(water_data[i]["Value"])
         temp_data_list.append(temp_data[i]["Value"])
+        total_data_list.append(total_data[i]["Value"])
 
     time = get_time(electricity_data)
 
@@ -63,7 +64,7 @@ def get_data(length=30, interval=5):
     ret = {
         'Electricity' : electricity_data_list,
         'Steam' : steam_data_list,
-        'Water' : water_data_list,
+        'Total' : total_data_list,
         'Temperature' : temp_data_list,
         'Time' : time_list
     }

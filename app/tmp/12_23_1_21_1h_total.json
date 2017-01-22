@@ -1,0 +1,5774 @@
+{
+  "Links": {},
+  "Items": [
+    {
+      "Timestamp": "2016-12-23T12:01:11.7061385Z",
+      "Value": 1089.89148,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T13:01:11.7061385Z",
+      "Value": 1013.34332,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T14:01:11.7061385Z",
+      "Value": 1046.302,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T15:01:11.7061385Z",
+      "Value": 1129.39734,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T16:01:11.7061385Z",
+      "Value": 1107.498,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T17:01:11.7061385Z",
+      "Value": 1093.52393,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T18:01:11.7061385Z",
+      "Value": 1113.55713,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T19:01:11.7061385Z",
+      "Value": 1061.45142,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T20:01:11.7061385Z",
+      "Value": 1054.48889,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T21:01:11.7061385Z",
+      "Value": 1034.75269,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T22:01:11.7061385Z",
+      "Value": 1074.565,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-23T23:01:11.7061385Z",
+      "Value": 1067.75427,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T00:01:11.7061385Z",
+      "Value": 1096.0094,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T01:01:11.7061385Z",
+      "Value": 1019.045,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T02:01:11.7061385Z",
+      "Value": 1041.67188,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T03:01:11.7061385Z",
+      "Value": 1111.59045,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T04:01:11.7061385Z",
+      "Value": 1143.204,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T05:01:11.7061385Z",
+      "Value": 1034.88745,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T06:01:11.7061385Z",
+      "Value": 1149.04285,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T07:01:11.7061385Z",
+      "Value": 1113.69153,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T08:01:11.7061385Z",
+      "Value": 1197.7179,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T09:01:11.7061385Z",
+      "Value": 1240.71191,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T10:01:11.7061385Z",
+      "Value": 1366.24707,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T11:01:11.7061385Z",
+      "Value": 1378.63062,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T12:01:11.7061385Z",
+      "Value": 1345.09766,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T13:01:11.7061385Z",
+      "Value": 1344.91772,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T14:01:11.7061385Z",
+      "Value": 1449.65283,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T15:01:11.7061385Z",
+      "Value": 1469.44006,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T16:01:11.7061385Z",
+      "Value": 1439.79651,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T17:01:11.7061385Z",
+      "Value": 1407.10413,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T18:01:11.7061385Z",
+      "Value": 1259.72546,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T19:01:11.7061385Z",
+      "Value": 1040.1925,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T20:01:11.7061385Z",
+      "Value": 1070.832,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T21:01:11.7061385Z",
+      "Value": 791.4355,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T22:01:11.7061385Z",
+      "Value": 785.825439,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-24T23:01:11.7061385Z",
+      "Value": 922.572937,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T00:01:11.7061385Z",
+      "Value": 885.8,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T01:01:11.7061385Z",
+      "Value": 893.686157,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T02:01:11.7061385Z",
+      "Value": 1052.21,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T03:01:11.7061385Z",
+      "Value": 1169.55322,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T04:01:11.7061385Z",
+      "Value": 1315.1687,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T05:01:11.7061385Z",
+      "Value": 1345.73108,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T06:01:11.7061385Z",
+      "Value": 1356.44336,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T07:01:11.7061385Z",
+      "Value": 1276.67188,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T08:01:11.7061385Z",
+      "Value": 1369.05725,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T09:01:11.7061385Z",
+      "Value": 1338.3551,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T10:01:11.7061385Z",
+      "Value": 1345.364,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T11:01:11.7061385Z",
+      "Value": 1345.50049,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T12:01:11.7061385Z",
+      "Value": 1477.19775,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T13:01:11.7061385Z",
+      "Value": 1410.19788,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T14:01:11.7061385Z",
+      "Value": 1494.83044,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T15:01:11.7061385Z",
+      "Value": 1503.55713,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T16:01:11.7061385Z",
+      "Value": 1457.6593,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T17:01:11.7061385Z",
+      "Value": 1518.60669,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T18:01:11.7061385Z",
+      "Value": 1479.05847,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T19:01:11.7061385Z",
+      "Value": 1427.04248,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T20:01:11.7061385Z",
+      "Value": 1356.59448,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T21:01:11.7061385Z",
+      "Value": 1195.40308,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T22:01:11.7061385Z",
+      "Value": 1139.30664,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-25T23:01:11.7061385Z",
+      "Value": 1171.35852,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T00:01:11.7061385Z",
+      "Value": 1114.57263,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T01:01:11.7061385Z",
+      "Value": 1173.57214,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T02:01:11.7061385Z",
+      "Value": 1278.76025,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T03:01:11.7061385Z",
+      "Value": 1189.2041,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T04:01:11.7061385Z",
+      "Value": 1282.63855,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T05:01:11.7061385Z",
+      "Value": 1290.72656,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T06:01:11.7061385Z",
+      "Value": 1320.791,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T07:01:11.7061385Z",
+      "Value": 1337.92981,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T08:01:11.7061385Z",
+      "Value": 1418.28149,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T09:01:11.7061385Z",
+      "Value": 1390.72766,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T10:01:11.7061385Z",
+      "Value": 1490.51648,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T11:01:11.7061385Z",
+      "Value": 1559.66663,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T12:01:11.7061385Z",
+      "Value": 1511.35583,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T13:01:11.7061385Z",
+      "Value": 1530.47229,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T14:01:11.7061385Z",
+      "Value": 1435.09436,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T15:01:11.7061385Z",
+      "Value": 1497.27881,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T16:01:11.7061385Z",
+      "Value": 1413.7533,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T17:01:11.7061385Z",
+      "Value": 1467.90845,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T18:01:11.7061385Z",
+      "Value": 1324.66052,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T19:01:11.7061385Z",
+      "Value": 1204.87183,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T20:01:11.7061385Z",
+      "Value": 1199.125,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T21:01:11.7061385Z",
+      "Value": 1130.81421,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T22:01:11.7061385Z",
+      "Value": 916.785767,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-26T23:01:11.7061385Z",
+      "Value": 930.2778,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T00:01:11.7061385Z",
+      "Value": 930.4291,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T01:01:11.7061385Z",
+      "Value": 1031.96643,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T02:01:11.7061385Z",
+      "Value": 1150.33667,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T03:01:11.7061385Z",
+      "Value": 1137.845,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T04:01:11.7061385Z",
+      "Value": 1195.9928,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T05:01:11.7061385Z",
+      "Value": 1226.104,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T06:01:11.7061385Z",
+      "Value": 1258.77136,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T07:01:11.7061385Z",
+      "Value": 1456.60791,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T08:01:11.7061385Z",
+      "Value": 1419.59509,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T09:01:11.7061385Z",
+      "Value": 1431.30017,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T10:01:11.7061385Z",
+      "Value": 1355.269,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T11:01:11.7061385Z",
+      "Value": 1448.47473,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T12:01:11.7061385Z",
+      "Value": 1364.04248,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T13:01:11.7061385Z",
+      "Value": 1521.64,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T14:01:11.7061385Z",
+      "Value": 1490.63611,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T15:01:11.7061385Z",
+      "Value": 1551.9259,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T16:01:11.7061385Z",
+      "Value": 1590.98132,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T17:01:11.7061385Z",
+      "Value": 1597.41821,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T18:01:11.7061385Z",
+      "Value": 1637.89661,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T19:01:11.7061385Z",
+      "Value": 1544.69,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T20:01:11.7061385Z",
+      "Value": 1318.99133,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T21:01:11.7061385Z",
+      "Value": 1318.938,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T22:01:11.7061385Z",
+      "Value": 1143.47363,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-27T23:01:11.7061385Z",
+      "Value": 1058.93286,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T00:01:11.7061385Z",
+      "Value": 1070.69092,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T01:01:11.7061385Z",
+      "Value": 1257.85107,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T02:01:11.7061385Z",
+      "Value": 1313.744,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T03:01:11.7061385Z",
+      "Value": 1559.26062,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T04:01:11.7061385Z",
+      "Value": 1430.149,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T05:01:11.7061385Z",
+      "Value": 1416.00049,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T06:01:11.7061385Z",
+      "Value": 1423.11877,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T07:01:11.7061385Z",
+      "Value": 1282.21362,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T08:01:11.7061385Z",
+      "Value": 1287.908,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T09:01:11.7061385Z",
+      "Value": 1391.97742,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T10:01:11.7061385Z",
+      "Value": 1337.8064,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T11:01:11.7061385Z",
+      "Value": 1418.17126,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T12:01:11.7061385Z",
+      "Value": 1492.99292,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T13:01:11.7061385Z",
+      "Value": 1580.12927,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T14:01:11.7061385Z",
+      "Value": 1624.618,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T15:01:11.7061385Z",
+      "Value": 1654.24109,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T16:01:11.7061385Z",
+      "Value": 1629.64783,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T17:01:11.7061385Z",
+      "Value": 1659.2572,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T18:01:11.7061385Z",
+      "Value": 1610.5072,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T19:01:11.7061385Z",
+      "Value": 1611.70825,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T20:01:11.7061385Z",
+      "Value": 1320.2605,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T21:01:11.7061385Z",
+      "Value": 1226.58765,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T22:01:11.7061385Z",
+      "Value": 886.6397,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-28T23:01:11.7061385Z",
+      "Value": 953.2023,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T00:01:11.7061385Z",
+      "Value": 988.142761,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T01:01:11.7061385Z",
+      "Value": 932.507141,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T02:01:11.7061385Z",
+      "Value": 1106.78308,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T03:01:11.7061385Z",
+      "Value": 1201.03113,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T04:01:11.7061385Z",
+      "Value": 1299.65674,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T05:01:11.7061385Z",
+      "Value": 1263.90479,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T06:01:11.7061385Z",
+      "Value": 1262.56873,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T07:01:11.7061385Z",
+      "Value": 1261.44165,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T08:01:11.7061385Z",
+      "Value": 1186.59668,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T09:01:11.7061385Z",
+      "Value": 1299.958,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T10:01:11.7061385Z",
+      "Value": 1284.30615,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T11:01:11.7061385Z",
+      "Value": 1392.47278,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T12:01:11.7061385Z",
+      "Value": 1416.60974,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T13:01:11.7061385Z",
+      "Value": 1380.58289,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T14:01:11.7061385Z",
+      "Value": 1582.70374,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T15:01:11.7061385Z",
+      "Value": 1670.24561,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T16:01:11.7061385Z",
+      "Value": 1647.99536,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T17:01:11.7061385Z",
+      "Value": 1660.97656,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T18:01:11.7061385Z",
+      "Value": 1614.0708,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T19:01:11.7061385Z",
+      "Value": 1560.82922,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T20:01:11.7061385Z",
+      "Value": 1157.873,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T21:01:11.7061385Z",
+      "Value": 1145.43457,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T22:01:11.7061385Z",
+      "Value": 821.9143,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-29T23:01:11.7061385Z",
+      "Value": 841.151733,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T00:01:11.7061385Z",
+      "Value": 855.0928,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T01:01:11.7061385Z",
+      "Value": 828.975037,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T02:01:11.7061385Z",
+      "Value": 870.1922,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T03:01:11.7061385Z",
+      "Value": 1133.32446,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T04:01:11.7061385Z",
+      "Value": 1131.08057,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T05:01:11.7061385Z",
+      "Value": 1072.45532,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T06:01:11.7061385Z",
+      "Value": 1271.41931,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T07:01:11.7061385Z",
+      "Value": 1140.03467,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T08:01:11.7061385Z",
+      "Value": 1114.37976,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T09:01:11.7061385Z",
+      "Value": 1196.288,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T10:01:11.7061385Z",
+      "Value": 1266.83765,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T11:01:11.7061385Z",
+      "Value": 1217.17334,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T12:01:11.7061385Z",
+      "Value": 1398.70166,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T13:01:11.7061385Z",
+      "Value": 1277.145,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T14:01:11.7061385Z",
+      "Value": 1400.55542,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T15:01:11.7061385Z",
+      "Value": 1353.01062,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T16:01:11.7061385Z",
+      "Value": 1352.47644,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T17:01:11.7061385Z",
+      "Value": 1414.7749,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T18:01:11.7061385Z",
+      "Value": 1185.17053,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T19:01:11.7061385Z",
+      "Value": 1171.096,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T20:01:11.7061385Z",
+      "Value": 966.3764,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T21:01:11.7061385Z",
+      "Value": 974.368347,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T22:01:11.7061385Z",
+      "Value": 729.063,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-30T23:01:11.7061385Z",
+      "Value": 713.851257,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T00:01:11.7061385Z",
+      "Value": 732.1912,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T01:01:11.7061385Z",
+      "Value": 700.975342,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T02:01:11.7061385Z",
+      "Value": 947.9743,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T03:01:11.7061385Z",
+      "Value": 940.462952,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T04:01:11.7061385Z",
+      "Value": 940.00116,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T05:01:11.7061385Z",
+      "Value": 1052.366,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T06:01:11.7061385Z",
+      "Value": 1123.44,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T07:01:11.7061385Z",
+      "Value": 1111.72009,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T08:01:11.7061385Z",
+      "Value": 1096.38477,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T09:01:11.7061385Z",
+      "Value": 1155.22961,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T10:01:11.7061385Z",
+      "Value": 1104.07556,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T11:01:11.7061385Z",
+      "Value": 1062.96362,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T12:01:11.7061385Z",
+      "Value": 1139.35522,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T13:01:11.7061385Z",
+      "Value": 1154.77185,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T14:01:11.7061385Z",
+      "Value": 1147.83057,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T15:01:11.7061385Z",
+      "Value": 1194.52576,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T16:01:11.7061385Z",
+      "Value": 1129.05737,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T17:01:11.7061385Z",
+      "Value": 1177.018,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T18:01:11.7061385Z",
+      "Value": 1089.348,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T19:01:11.7061385Z",
+      "Value": 1084.74158,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T20:01:11.7061385Z",
+      "Value": 1023.89142,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T21:01:11.7061385Z",
+      "Value": 969.3467,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T22:01:11.7061385Z",
+      "Value": 960.5396,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2016-12-31T23:01:11.7061385Z",
+      "Value": 779.2702,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T00:01:11.7061385Z",
+      "Value": 751.9432,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T01:01:11.7061385Z",
+      "Value": 813.7188,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T02:01:11.7061385Z",
+      "Value": 842.819,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T03:01:11.7061385Z",
+      "Value": 1038.56433,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T04:01:11.7061385Z",
+      "Value": 1112.12524,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T05:01:11.7061385Z",
+      "Value": 1168.32,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T06:01:11.7061385Z",
+      "Value": 1253.00964,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T07:01:11.7061385Z",
+      "Value": 1330.144,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T08:01:11.7061385Z",
+      "Value": 1317.55347,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T09:01:11.7061385Z",
+      "Value": 1315.22742,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T10:01:11.7061385Z",
+      "Value": 1247.45264,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T11:01:11.7061385Z",
+      "Value": 1278.50525,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T12:01:11.7061385Z",
+      "Value": 1253.5481,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T13:01:11.7061385Z",
+      "Value": 1240.55713,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T14:01:11.7061385Z",
+      "Value": 1186.17566,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T15:01:11.7061385Z",
+      "Value": 1264.56079,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T16:01:11.7061385Z",
+      "Value": 1283.4176,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T17:01:11.7061385Z",
+      "Value": 1203.18335,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T18:01:11.7061385Z",
+      "Value": 1216.25452,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T19:01:11.7061385Z",
+      "Value": 1228.07336,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T20:01:11.7061385Z",
+      "Value": 1126.689,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T21:01:11.7061385Z",
+      "Value": 1087.1449,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T22:01:11.7061385Z",
+      "Value": 1077.364,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-01T23:01:11.7061385Z",
+      "Value": 890.0631,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T00:01:11.7061385Z",
+      "Value": 891.7579,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T01:01:11.7061385Z",
+      "Value": 885.207458,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T02:01:11.7061385Z",
+      "Value": 988.4469,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T03:01:11.7061385Z",
+      "Value": 966.5034,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T04:01:11.7061385Z",
+      "Value": 1041.054,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T05:01:11.7061385Z",
+      "Value": 1128.90308,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T06:01:11.7061385Z",
+      "Value": 1112.88037,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T07:01:11.7061385Z",
+      "Value": 1117.01489,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T08:01:11.7061385Z",
+      "Value": 1111.9165,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T09:01:11.7061385Z",
+      "Value": 1155.527,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T10:01:11.7061385Z",
+      "Value": 1253.36084,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T11:01:11.7061385Z",
+      "Value": 1186.73267,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T12:01:11.7061385Z",
+      "Value": 1212.46851,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T13:01:11.7061385Z",
+      "Value": 1289.043,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T14:01:11.7061385Z",
+      "Value": 1238.681,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T15:01:11.7061385Z",
+      "Value": 1266.8291,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T16:01:11.7061385Z",
+      "Value": 1320.36,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T17:01:11.7061385Z",
+      "Value": 1224.42419,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T18:01:11.7061385Z",
+      "Value": 1291.45959,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T19:01:11.7061385Z",
+      "Value": 1148.77368,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T20:01:11.7061385Z",
+      "Value": 1141.23657,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T21:01:11.7061385Z",
+      "Value": 1093.38428,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T22:01:11.7061385Z",
+      "Value": 1228.62085,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-02T23:01:11.7061385Z",
+      "Value": 1086.18018,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T00:01:11.7061385Z",
+      "Value": 1029.5647,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T01:01:11.7061385Z",
+      "Value": 1035.169,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T02:01:11.7061385Z",
+      "Value": 1049.64319,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T03:01:11.7061385Z",
+      "Value": 1257.65564,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T04:01:11.7061385Z",
+      "Value": 1113.77161,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T05:01:11.7061385Z",
+      "Value": 1139.70068,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T06:01:11.7061385Z",
+      "Value": 1094.01416,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T07:01:11.7061385Z",
+      "Value": 1100.1488,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T08:01:11.7061385Z",
+      "Value": 1175.16077,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T09:01:11.7061385Z",
+      "Value": 1127.98486,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T10:01:11.7061385Z",
+      "Value": 1128.71692,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T11:01:11.7061385Z",
+      "Value": 1097.42383,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T12:01:11.7061385Z",
+      "Value": 1148.183,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T13:01:11.7061385Z",
+      "Value": 1159.81226,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T14:01:11.7061385Z",
+      "Value": 1202.7876,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T15:01:11.7061385Z",
+      "Value": 1348.59521,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T16:01:11.7061385Z",
+      "Value": 1358.06909,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T17:01:11.7061385Z",
+      "Value": 1437.38147,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T18:01:11.7061385Z",
+      "Value": 1626.36658,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T19:01:11.7061385Z",
+      "Value": 1612.90027,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T20:01:11.7061385Z",
+      "Value": 1667.98242,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T21:01:11.7061385Z",
+      "Value": 1624.68237,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T22:01:11.7061385Z",
+      "Value": 1667.22046,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-03T23:01:11.7061385Z",
+      "Value": 1558.79846,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T00:01:11.7061385Z",
+      "Value": 1618.58557,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T01:01:11.7061385Z",
+      "Value": 1562.247,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T02:01:11.7061385Z",
+      "Value": 1414.74182,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T03:01:11.7061385Z",
+      "Value": 1403.81372,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T04:01:11.7061385Z",
+      "Value": 1321.56689,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T05:01:11.7061385Z",
+      "Value": 1246.52612,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T06:01:11.7061385Z",
+      "Value": 1231.25769,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T07:01:11.7061385Z",
+      "Value": 1038.03845,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T08:01:11.7061385Z",
+      "Value": 971.479553,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T09:01:11.7061385Z",
+      "Value": 957.991943,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T10:01:11.7061385Z",
+      "Value": 971.0049,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T11:01:11.7061385Z",
+      "Value": 1016.34589,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T12:01:11.7061385Z",
+      "Value": 975.053955,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T13:01:11.7061385Z",
+      "Value": 1048.4624,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T14:01:11.7061385Z",
+      "Value": 1033.83142,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T15:01:11.7061385Z",
+      "Value": 1127.67139,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T16:01:11.7061385Z",
+      "Value": 1163.699,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T17:01:11.7061385Z",
+      "Value": 1185.79187,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T18:01:11.7061385Z",
+      "Value": 1324.43909,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T19:01:11.7061385Z",
+      "Value": 1547.15613,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T20:01:11.7061385Z",
+      "Value": 1513.70752,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T21:01:11.7061385Z",
+      "Value": 1497.02136,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T22:01:11.7061385Z",
+      "Value": 1230.99414,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-04T23:01:11.7061385Z",
+      "Value": 1121.9375,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T00:01:11.7061385Z",
+      "Value": 1282.96887,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T01:01:11.7061385Z",
+      "Value": 1405.41626,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T02:01:11.7061385Z",
+      "Value": 1411.00977,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T03:01:11.7061385Z",
+      "Value": 1319.87671,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T04:01:11.7061385Z",
+      "Value": 1317.67322,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T05:01:11.7061385Z",
+      "Value": 1197.48621,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T06:01:11.7061385Z",
+      "Value": 1206.15735,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T07:01:11.7061385Z",
+      "Value": 1062.26074,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T08:01:11.7061385Z",
+      "Value": 1003.19611,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T09:01:11.7061385Z",
+      "Value": 1060.53149,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T10:01:11.7061385Z",
+      "Value": 1022.03894,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T11:01:11.7061385Z",
+      "Value": 1045.6532,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T12:01:11.7061385Z",
+      "Value": 1071.094,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T13:01:11.7061385Z",
+      "Value": 1245.15344,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T14:01:11.7061385Z",
+      "Value": 1351.94446,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T15:01:11.7061385Z",
+      "Value": 1509.88391,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T16:01:11.7061385Z",
+      "Value": 1821.24341,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T17:01:11.7061385Z",
+      "Value": 1689.432,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T18:01:11.7061385Z",
+      "Value": 1656.81763,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T19:01:11.7061385Z",
+      "Value": 1878.162,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T20:01:11.7061385Z",
+      "Value": 1695.783,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T21:01:11.7061385Z",
+      "Value": 1521.34521,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T22:01:11.7061385Z",
+      "Value": 1451.56567,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-05T23:01:11.7061385Z",
+      "Value": 1330.95068,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T00:01:11.7061385Z",
+      "Value": 1444.77649,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T01:01:11.7061385Z",
+      "Value": 1336.64771,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T02:01:11.7061385Z",
+      "Value": 1567.93,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T03:01:11.7061385Z",
+      "Value": 1635.81323,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T04:01:11.7061385Z",
+      "Value": 1594.76428,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T05:01:11.7061385Z",
+      "Value": 1549.18616,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T06:01:11.7061385Z",
+      "Value": 1536.02136,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T07:01:11.7061385Z",
+      "Value": 1364.09973,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T08:01:11.7061385Z",
+      "Value": 1390.5166,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T09:01:11.7061385Z",
+      "Value": 1425.1,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T10:01:11.7061385Z",
+      "Value": 1456.046,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T11:01:11.7061385Z",
+      "Value": 1467.40845,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T12:01:11.7061385Z",
+      "Value": 1461.27051,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T13:01:11.7061385Z",
+      "Value": 1513.29993,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T14:01:11.7061385Z",
+      "Value": 1627.71057,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T15:01:11.7061385Z",
+      "Value": 1706.84167,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T16:01:11.7061385Z",
+      "Value": 1755.94482,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T17:01:11.7061385Z",
+      "Value": 1909.74731,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T18:01:11.7061385Z",
+      "Value": 2013.50073,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T19:01:11.7061385Z",
+      "Value": 1954.45007,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T20:01:11.7061385Z",
+      "Value": 1832.13281,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T21:01:11.7061385Z",
+      "Value": 1714.93567,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T22:01:11.7061385Z",
+      "Value": 1643.01282,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-06T23:01:11.7061385Z",
+      "Value": 1524.89929,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T00:01:11.7061385Z",
+      "Value": 1595.20374,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T01:01:11.7061385Z",
+      "Value": 1490.1261,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T02:01:11.7061385Z",
+      "Value": 1613.42761,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T03:01:11.7061385Z",
+      "Value": 1505.217,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T04:01:11.7061385Z",
+      "Value": 1489.22009,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T05:01:11.7061385Z",
+      "Value": 1439.937,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T06:01:11.7061385Z",
+      "Value": 1421.19958,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T07:01:11.7061385Z",
+      "Value": 1228.93359,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T08:01:11.7061385Z",
+      "Value": 1301.51978,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T09:01:11.7061385Z",
+      "Value": 1224.32117,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T10:01:11.7061385Z",
+      "Value": 1265.932,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T11:01:11.7061385Z",
+      "Value": 1250.77637,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T12:01:11.7061385Z",
+      "Value": 1337.39673,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T13:01:11.7061385Z",
+      "Value": 1352.0697,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T14:01:11.7061385Z",
+      "Value": 1408.21753,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T15:01:11.7061385Z",
+      "Value": 1320.43152,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T16:01:11.7061385Z",
+      "Value": 1392.32166,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T17:01:11.7061385Z",
+      "Value": 1358.45,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T18:01:11.7061385Z",
+      "Value": 1514.89648,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T19:01:11.7061385Z",
+      "Value": 1504.55908,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T20:01:11.7061385Z",
+      "Value": 1083.446,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T21:01:11.7061385Z",
+      "Value": 1047.07471,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T22:01:11.7061385Z",
+      "Value": 1062.23157,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-07T23:01:11.7061385Z",
+      "Value": 1031.83862,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T00:01:11.7061385Z",
+      "Value": 1005.17072,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T01:01:11.7061385Z",
+      "Value": 985.904236,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T02:01:11.7061385Z",
+      "Value": 814.426453,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T03:01:11.7061385Z",
+      "Value": 778.6958,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T04:01:11.7061385Z",
+      "Value": 770.5499,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T05:01:11.7061385Z",
+      "Value": 809.524963,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T06:01:11.7061385Z",
+      "Value": 785.568054,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T07:01:11.7061385Z",
+      "Value": 766.5876,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T08:01:11.7061385Z",
+      "Value": 782.0555,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T09:01:11.7061385Z",
+      "Value": 757.2383,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T10:01:11.7061385Z",
+      "Value": 755.5088,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T11:01:11.7061385Z",
+      "Value": 774.6794,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T12:01:11.7061385Z",
+      "Value": 744.092346,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T13:01:11.7061385Z",
+      "Value": 755.0993,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T14:01:11.7061385Z",
+      "Value": 723.8922,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T15:01:11.7061385Z",
+      "Value": 680.817566,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T16:01:11.7061385Z",
+      "Value": 699.6877,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T17:01:11.7061385Z",
+      "Value": 728.245,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T18:01:11.7061385Z",
+      "Value": 734.9559,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T19:01:11.7061385Z",
+      "Value": 784.0193,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T20:01:11.7061385Z",
+      "Value": 941.508362,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T21:01:11.7061385Z",
+      "Value": 953.692,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T22:01:11.7061385Z",
+      "Value": 888.7988,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-08T23:01:11.7061385Z",
+      "Value": 886.026367,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T00:01:11.7061385Z",
+      "Value": 865.270264,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T01:01:11.7061385Z",
+      "Value": 818.8033,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T02:01:11.7061385Z",
+      "Value": 813.53894,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T03:01:11.7061385Z",
+      "Value": 813.995,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T04:01:11.7061385Z",
+      "Value": 796.137268,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T05:01:11.7061385Z",
+      "Value": 642.0403,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T06:01:11.7061385Z",
+      "Value": 634.8381,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T07:01:11.7061385Z",
+      "Value": 687.888855,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T08:01:11.7061385Z",
+      "Value": 719.6052,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T09:01:11.7061385Z",
+      "Value": 690.3555,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T10:01:11.7061385Z",
+      "Value": 739.0729,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T11:01:11.7061385Z",
+      "Value": 731.706055,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T12:01:11.7061385Z",
+      "Value": 800.811768,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T13:01:11.7061385Z",
+      "Value": 955.8213,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T14:01:11.7061385Z",
+      "Value": 940.8016,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T15:01:11.7061385Z",
+      "Value": 958.591858,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T16:01:11.7061385Z",
+      "Value": 1137.30359,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T17:01:11.7061385Z",
+      "Value": 1386.37866,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T18:01:11.7061385Z",
+      "Value": 1443.39038,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T19:01:11.7061385Z",
+      "Value": 1610.30908,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T20:01:11.7061385Z",
+      "Value": 1405.209,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T21:01:11.7061385Z",
+      "Value": 1242.20093,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T22:01:11.7061385Z",
+      "Value": 1337.82446,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-09T23:01:11.7061385Z",
+      "Value": 878.0644,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T00:01:11.7061385Z",
+      "Value": 879.2367,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T01:01:11.7061385Z",
+      "Value": 1025.48157,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T02:01:11.7061385Z",
+      "Value": 1105.73328,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T03:01:11.7061385Z",
+      "Value": 1089.0929,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T04:01:11.7061385Z",
+      "Value": 1181.91833,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T05:01:11.7061385Z",
+      "Value": 1121.35107,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T06:01:11.7061385Z",
+      "Value": 990.518555,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T07:01:11.7061385Z",
+      "Value": 982.9715,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T08:01:11.7061385Z",
+      "Value": 918.527161,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T09:01:11.7061385Z",
+      "Value": 903.5355,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T10:01:11.7061385Z",
+      "Value": 942.5768,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T11:01:11.7061385Z",
+      "Value": 933.5501,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T12:01:11.7061385Z",
+      "Value": 894.862244,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T13:01:11.7061385Z",
+      "Value": 967.368835,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T14:01:11.7061385Z",
+      "Value": 968.7221,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T15:01:11.7061385Z",
+      "Value": 1058.97754,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T16:01:11.7061385Z",
+      "Value": 1114.83154,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T17:01:11.7061385Z",
+      "Value": 1506.63477,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T18:01:11.7061385Z",
+      "Value": 1520.84766,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T19:01:11.7061385Z",
+      "Value": 1386.57,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T20:01:11.7061385Z",
+      "Value": 1365.9126,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T21:01:11.7061385Z",
+      "Value": 1308.99011,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T22:01:11.7061385Z",
+      "Value": 1279.88855,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-10T23:01:11.7061385Z",
+      "Value": 1340.56921,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T00:01:11.7061385Z",
+      "Value": 1443.55579,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T01:01:11.7061385Z",
+      "Value": 1255.2417,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T02:01:11.7061385Z",
+      "Value": 1274.55261,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T03:01:11.7061385Z",
+      "Value": 1164.126,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T04:01:11.7061385Z",
+      "Value": 1175.46851,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T05:01:11.7061385Z",
+      "Value": 925.5225,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T06:01:11.7061385Z",
+      "Value": 934.841553,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T07:01:11.7061385Z",
+      "Value": 920.8669,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T08:01:11.7061385Z",
+      "Value": 886.9217,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T09:01:11.7061385Z",
+      "Value": 840.4106,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T10:01:11.7061385Z",
+      "Value": 901.870056,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T11:01:11.7061385Z",
+      "Value": 898.9177,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T12:01:11.7061385Z",
+      "Value": 915.631653,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T13:01:11.7061385Z",
+      "Value": 920.1923,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T14:01:11.7061385Z",
+      "Value": 928.3384,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T15:01:11.7061385Z",
+      "Value": 1011.56213,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T16:01:11.7061385Z",
+      "Value": 1130.88489,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T17:01:11.7061385Z",
+      "Value": 1647.75928,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T18:01:11.7061385Z",
+      "Value": 1537.98193,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T19:01:11.7061385Z",
+      "Value": 1317.66748,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T20:01:11.7061385Z",
+      "Value": 1188.97986,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T21:01:11.7061385Z",
+      "Value": 1204.7749,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T22:01:11.7061385Z",
+      "Value": 1059.6062,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-11T23:01:11.7061385Z",
+      "Value": 1072.78394,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T00:01:11.7061385Z",
+      "Value": 1115.29358,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T01:01:11.7061385Z",
+      "Value": 1075.151,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T02:01:11.7061385Z",
+      "Value": 1250.706,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T03:01:11.7061385Z",
+      "Value": 1394.58215,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T04:01:11.7061385Z",
+      "Value": 1257.05518,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T05:01:11.7061385Z",
+      "Value": 1227.89368,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T06:01:11.7061385Z",
+      "Value": 1232.17126,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T07:01:11.7061385Z",
+      "Value": 1142.351,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T08:01:11.7061385Z",
+      "Value": 1161.764,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T09:01:11.7061385Z",
+      "Value": 1140.25537,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T10:01:11.7061385Z",
+      "Value": 1041.68481,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T11:01:11.7061385Z",
+      "Value": 1055.62549,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T12:01:11.7061385Z",
+      "Value": 1119.53638,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T13:01:11.7061385Z",
+      "Value": 1141.7937,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T14:01:11.7061385Z",
+      "Value": 1167.51111,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T15:01:11.7061385Z",
+      "Value": 1396.83655,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T16:01:11.7061385Z",
+      "Value": 1434.156,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T17:01:11.7061385Z",
+      "Value": 1601.91638,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T18:01:11.7061385Z",
+      "Value": 1750.97266,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T19:01:11.7061385Z",
+      "Value": 1845.64221,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T20:01:11.7061385Z",
+      "Value": 1778.55542,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T21:01:11.7061385Z",
+      "Value": 1722.33777,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T22:01:11.7061385Z",
+      "Value": 1658.39551,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-12T23:01:11.7061385Z",
+      "Value": 1550.3125,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T00:01:11.7061385Z",
+      "Value": 1392.57434,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T01:01:11.7061385Z",
+      "Value": 1280.8374,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T02:01:11.7061385Z",
+      "Value": 1465.02307,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T03:01:11.7061385Z",
+      "Value": 1501.98682,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T04:01:11.7061385Z",
+      "Value": 1422.81677,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T05:01:11.7061385Z",
+      "Value": 1431.38367,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T06:01:11.7061385Z",
+      "Value": 1303.46985,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T07:01:11.7061385Z",
+      "Value": 1138.83569,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T08:01:11.7061385Z",
+      "Value": 1129.27136,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T09:01:11.7061385Z",
+      "Value": 1155.66138,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T10:01:11.7061385Z",
+      "Value": 1226.88684,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T11:01:11.7061385Z",
+      "Value": 1326.77417,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T12:01:11.7061385Z",
+      "Value": 1256.55859,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T13:01:11.7061385Z",
+      "Value": 1298.53259,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T14:01:11.7061385Z",
+      "Value": 1390.93115,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T15:01:11.7061385Z",
+      "Value": 1657.936,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T16:01:11.7061385Z",
+      "Value": 1872.00439,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T17:01:11.7061385Z",
+      "Value": 1954.677,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T18:01:11.7061385Z",
+      "Value": 1961.65186,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T19:01:11.7061385Z",
+      "Value": 1778.17053,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T20:01:11.7061385Z",
+      "Value": 1342.623,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T21:01:11.7061385Z",
+      "Value": 1382.76343,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T22:01:11.7061385Z",
+      "Value": 1354.778,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-13T23:01:11.7061385Z",
+      "Value": 908.836365,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T00:01:11.7061385Z",
+      "Value": 961.3699,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T01:01:11.7061385Z",
+      "Value": 922.082,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T02:01:11.7061385Z",
+      "Value": 948.317566,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T03:01:11.7061385Z",
+      "Value": 1227.2605,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T04:01:11.7061385Z",
+      "Value": 1204.982,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T05:01:11.7061385Z",
+      "Value": 1218.28516,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T06:01:11.7061385Z",
+      "Value": 1186.61414,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T07:01:11.7061385Z",
+      "Value": 1095.10474,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T08:01:11.7061385Z",
+      "Value": 957.8618,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T09:01:11.7061385Z",
+      "Value": 956.0522,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T10:01:11.7061385Z",
+      "Value": 1052.95691,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T11:01:11.7061385Z",
+      "Value": 1090.05872,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T12:01:11.7061385Z",
+      "Value": 1184.61621,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T13:01:11.7061385Z",
+      "Value": 1254.0354,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T14:01:11.7061385Z",
+      "Value": 1290.1803,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T15:01:11.7061385Z",
+      "Value": 1389.32434,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T16:01:11.7061385Z",
+      "Value": 1334.10889,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T17:01:11.7061385Z",
+      "Value": 1440.45776,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T18:01:11.7061385Z",
+      "Value": 1731.54565,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T19:01:11.7061385Z",
+      "Value": 1573.00867,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T20:01:11.7061385Z",
+      "Value": 1498.91016,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T21:01:11.7061385Z",
+      "Value": 1298.403,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T22:01:11.7061385Z",
+      "Value": 1300.25342,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-14T23:01:11.7061385Z",
+      "Value": 1155.80383,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T00:01:11.7061385Z",
+      "Value": 1150.21753,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T01:01:11.7061385Z",
+      "Value": 1098.50342,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T02:01:11.7061385Z",
+      "Value": 1256.9873,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T03:01:11.7061385Z",
+      "Value": 1260.23889,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T04:01:11.7061385Z",
+      "Value": 1451.3175,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T05:01:11.7061385Z",
+      "Value": 1367.09155,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T06:01:11.7061385Z",
+      "Value": 1409.40344,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T07:01:11.7061385Z",
+      "Value": 1379.28748,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T08:01:11.7061385Z",
+      "Value": 1356.8313,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T09:01:11.7061385Z",
+      "Value": 1348.31946,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T10:01:11.7061385Z",
+      "Value": 1272.64563,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T11:01:11.7061385Z",
+      "Value": 1372.01306,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T12:01:11.7061385Z",
+      "Value": 1330.21912,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T13:01:11.7061385Z",
+      "Value": 1272.15894,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T14:01:11.7061385Z",
+      "Value": 1305.05066,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T15:01:11.7061385Z",
+      "Value": 1316.24817,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T16:01:11.7061385Z",
+      "Value": 1304.95667,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T17:01:11.7061385Z",
+      "Value": 1384.01563,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T18:01:11.7061385Z",
+      "Value": 1536.27954,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T19:01:11.7061385Z",
+      "Value": 1443.21155,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T20:01:11.7061385Z",
+      "Value": 1344.19067,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T21:01:11.7061385Z",
+      "Value": 1235.34534,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T22:01:11.7061385Z",
+      "Value": 1039.6095,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-15T23:01:11.7061385Z",
+      "Value": 1064.67529,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T00:01:11.7061385Z",
+      "Value": 1190.22693,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T01:01:11.7061385Z",
+      "Value": 1140.38147,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T02:01:11.7061385Z",
+      "Value": 1184.81433,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T03:01:11.7061385Z",
+      "Value": 1110.74829,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T04:01:11.7061385Z",
+      "Value": 1134.33752,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T05:01:11.7061385Z",
+      "Value": 1284.71753,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T06:01:11.7061385Z",
+      "Value": 1339.1001,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T07:01:11.7061385Z",
+      "Value": 1311.48108,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T08:01:11.7061385Z",
+      "Value": 1306.20337,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T09:01:11.7061385Z",
+      "Value": 1380.08582,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T10:01:11.7061385Z",
+      "Value": 1264.64978,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T11:01:11.7061385Z",
+      "Value": 1317.549,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T12:01:11.7061385Z",
+      "Value": 1352.54468,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T13:01:11.7061385Z",
+      "Value": 1421.83777,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T14:01:11.7061385Z",
+      "Value": 1452.0448,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T15:01:11.7061385Z",
+      "Value": 1585.44775,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T16:01:11.7061385Z",
+      "Value": 1620.81116,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T17:01:11.7061385Z",
+      "Value": 1726.65356,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T18:01:11.7061385Z",
+      "Value": 1695.98328,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T19:01:11.7061385Z",
+      "Value": 1646.12744,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T20:01:11.7061385Z",
+      "Value": 1729.30042,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T21:01:11.7061385Z",
+      "Value": 1458.35059,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T22:01:11.7061385Z",
+      "Value": 1265.94788,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-16T23:01:11.7061385Z",
+      "Value": 1215.9325,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T00:01:11.7061385Z",
+      "Value": 1185.88342,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T01:01:11.7061385Z",
+      "Value": 1202.78418,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T02:01:11.7061385Z",
+      "Value": 1370.82349,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T03:01:11.7061385Z",
+      "Value": 1476.86475,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T04:01:11.7061385Z",
+      "Value": 1498.23425,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T05:01:11.7061385Z",
+      "Value": 1421.636,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T06:01:11.7061385Z",
+      "Value": 1473.755,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T07:01:11.7061385Z",
+      "Value": 1298.70947,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T08:01:11.7061385Z",
+      "Value": 1334.875,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T09:01:11.7061385Z",
+      "Value": 1349.211,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T10:01:11.7061385Z",
+      "Value": 1431.09473,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T11:01:11.7061385Z",
+      "Value": 1435.56433,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T12:01:11.7061385Z",
+      "Value": 1384.327,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T13:01:11.7061385Z",
+      "Value": 1457.225,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T14:01:11.7061385Z",
+      "Value": 1520.91675,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T15:01:11.7061385Z",
+      "Value": 1653.71814,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T16:01:11.7061385Z",
+      "Value": 1827.17981,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T17:01:11.7061385Z",
+      "Value": 1904.60376,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T18:01:11.7061385Z",
+      "Value": 2105.80176,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T19:01:11.7061385Z",
+      "Value": 2017.01929,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T20:01:11.7061385Z",
+      "Value": 2074.11377,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T21:01:11.7061385Z",
+      "Value": 1806.83887,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T22:01:11.7061385Z",
+      "Value": 1888.3252,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-17T23:01:11.7061385Z",
+      "Value": 1901.95569,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T00:01:11.7061385Z",
+      "Value": 1750.04175,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T01:01:11.7061385Z",
+      "Value": 1730.40088,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T02:01:11.7061385Z",
+      "Value": 1731.06885,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T03:01:11.7061385Z",
+      "Value": 1809.36292,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T04:01:11.7061385Z",
+      "Value": 1743.44653,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T05:01:11.7061385Z",
+      "Value": 1588.66956,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T06:01:11.7061385Z",
+      "Value": 1587.99561,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T07:01:11.7061385Z",
+      "Value": 1317.4801,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T08:01:11.7061385Z",
+      "Value": 1349.22363,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T09:01:11.7061385Z",
+      "Value": 1311.6322,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T10:01:11.7061385Z",
+      "Value": 1303.63245,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T11:01:11.7061385Z",
+      "Value": 1237.15466,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T12:01:11.7061385Z",
+      "Value": 1273.81372,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T13:01:11.7061385Z",
+      "Value": 1355.651,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T14:01:11.7061385Z",
+      "Value": 1305.28,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T15:01:11.7061385Z",
+      "Value": 1367.48535,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T16:01:11.7061385Z",
+      "Value": 1634.61523,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T17:01:11.7061385Z",
+      "Value": 1657.76782,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T18:01:11.7061385Z",
+      "Value": 1767.04224,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T19:01:11.7061385Z",
+      "Value": 1961.52649,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T20:01:11.7061385Z",
+      "Value": 1927.71753,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T21:01:11.7061385Z",
+      "Value": 1785.89783,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T22:01:11.7061385Z",
+      "Value": 1677.56714,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-18T23:01:11.7061385Z",
+      "Value": 1700.1095,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T00:01:11.7061385Z",
+      "Value": 1671.87866,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T01:01:11.7061385Z",
+      "Value": 1646.00623,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T02:01:11.7061385Z",
+      "Value": 1637.52881,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T03:01:11.7061385Z",
+      "Value": 1515.03772,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T04:01:11.7061385Z",
+      "Value": 1458.18176,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T05:01:11.7061385Z",
+      "Value": 1298.2843,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T06:01:11.7061385Z",
+      "Value": 1162.943,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T07:01:11.7061385Z",
+      "Value": 1134.39636,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T08:01:11.7061385Z",
+      "Value": 970.176941,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T09:01:11.7061385Z",
+      "Value": 1092.02625,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T10:01:11.7061385Z",
+      "Value": 1072.1228,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T11:01:11.7061385Z",
+      "Value": 1069.97278,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T12:01:11.7061385Z",
+      "Value": 1140.93762,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T13:01:11.7061385Z",
+      "Value": 1108.29236,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T14:01:11.7061385Z",
+      "Value": 1182.72,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T15:01:11.7061385Z",
+      "Value": 1369.57227,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T16:01:11.7061385Z",
+      "Value": 1398.9115,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T17:01:11.7061385Z",
+      "Value": 1542.17639,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T18:01:11.7061385Z",
+      "Value": 1632.418,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T19:01:11.7061385Z",
+      "Value": 1629.70349,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T20:01:11.7061385Z",
+      "Value": 1517.87451,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T21:01:11.7061385Z",
+      "Value": 1462.68311,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T22:01:11.7061385Z",
+      "Value": 1502.23755,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-19T23:01:11.7061385Z",
+      "Value": 828.0078,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T00:01:11.7061385Z",
+      "Value": 844.878357,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T01:01:11.7061385Z",
+      "Value": 893.759644,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T02:01:11.7061385Z",
+      "Value": 901.2273,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T03:01:11.7061385Z",
+      "Value": 1160.53784,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T04:01:11.7061385Z",
+      "Value": 1233.70764,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T05:01:11.7061385Z",
+      "Value": 1241.33728,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T06:01:11.7061385Z",
+      "Value": 1123.23376,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T07:01:11.7061385Z",
+      "Value": 1116.685,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T08:01:11.7061385Z",
+      "Value": 1020.86469,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T09:01:11.7061385Z",
+      "Value": 1047.24414,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T10:01:11.7061385Z",
+      "Value": 1083.29456,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T11:01:11.7061385Z",
+      "Value": 1061.1814,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T12:01:11.7061385Z",
+      "Value": 1061.72278,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T13:01:11.7061385Z",
+      "Value": 1121.11255,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T14:01:11.7061385Z",
+      "Value": 1161.09192,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T15:01:11.7061385Z",
+      "Value": 1231.23926,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T16:01:11.7061385Z",
+      "Value": 1404.75024,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T17:01:11.7061385Z",
+      "Value": 1570.75,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T18:01:11.7061385Z",
+      "Value": 1548.225,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T19:01:11.7061385Z",
+      "Value": 1680.22949,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T20:01:11.7061385Z",
+      "Value": 1645.36511,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T21:01:11.7061385Z",
+      "Value": 1654.00732,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T22:01:11.7061385Z",
+      "Value": 1223.07312,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-20T23:01:11.7061385Z",
+      "Value": 1307.66333,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T00:01:11.7061385Z",
+      "Value": 1194.16064,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T01:01:11.7061385Z",
+      "Value": 1233.62048,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T02:01:11.7061385Z",
+      "Value": 1151.459,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T03:01:11.7061385Z",
+      "Value": 1401.19958,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T04:01:11.7061385Z",
+      "Value": 1346.407,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T05:01:11.7061385Z",
+      "Value": 1213.537,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T06:01:11.7061385Z",
+      "Value": 1245.32324,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T07:01:11.7061385Z",
+      "Value": 1154.15747,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T08:01:11.7061385Z",
+      "Value": 1119.944,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T09:01:11.7061385Z",
+      "Value": 1120.06726,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T10:01:11.7061385Z",
+      "Value": 1116.86389,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T11:01:11.7061385Z",
+      "Value": 1101.23047,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T12:01:11.7061385Z",
+      "Value": 1076.504,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T13:01:11.7061385Z",
+      "Value": 1148.83582,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T14:01:11.7061385Z",
+      "Value": 1122.41553,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T15:01:11.7061385Z",
+      "Value": 1096.84033,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T16:01:11.7061385Z",
+      "Value": 1126.4342,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T17:01:11.7061385Z",
+      "Value": 1136.56323,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T18:01:11.7061385Z",
+      "Value": 1240.7146,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T19:01:11.7061385Z",
+      "Value": 1052.07837,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T20:01:11.7061385Z",
+      "Value": 1081.86938,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T21:01:11.7061385Z",
+      "Value": 1104.14612,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T22:01:11.7061385Z",
+      "Value": 980.922852,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-21T23:01:11.7061385Z",
+      "Value": 1173.50391,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T00:01:11.7061385Z",
+      "Value": 1201.77527,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T01:01:11.7061385Z",
+      "Value": 1142.231,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T02:01:11.7061385Z",
+      "Value": 1021.88757,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T03:01:11.7061385Z",
+      "Value": 1031.77783,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T04:01:11.7061385Z",
+      "Value": 1009.75409,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T05:01:11.7061385Z",
+      "Value": 983.138,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T06:01:11.7061385Z",
+      "Value": 1038.738,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T07:01:11.7061385Z",
+      "Value": 1044.03064,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T08:01:11.7061385Z",
+      "Value": 1112.52747,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T09:01:11.7061385Z",
+      "Value": 1063.92346,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T10:01:11.7061385Z",
+      "Value": 1073.90125,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T11:01:11.7061385Z",
+      "Value": 1152.34473,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    },
+    {
+      "Timestamp": "2017-01-22T12:01:11.7061385Z",
+      "Value": 1124.56848,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false
+    }
+  ],
+  "UnitsAbbreviation": ""
+}

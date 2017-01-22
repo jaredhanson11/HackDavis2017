@@ -26,9 +26,9 @@ class Energy_Prediction_Model(object):
         self.steam_train_data = np.array(self.steam_data[:int(floor(len(self.steam_data)*train_partition))])
         self.steam_test_data = np.array(self.steam_data[int(floor(len(self.steam_data)*train_partition)):])
 
-        self.water_data = np.array(data_dict['Water'])
-        self.water_train_data = np.array(self.water_data[:int(floor(len(self.water_data)*train_partition))])
-        self.water_test_data = np.array(self.water_data[int(floor(len(self.water_data)*train_partition)):])
+        self.total_data = np.array(data_dict['Total'])
+        self.total_train_data = np.array(self.total_data[:int(floor(len(self.total_data)*train_partition))])
+        self.total_test_data = np.array(self.total_data[int(floor(len(self.total_data)*train_partition)):])
 
         self.air_temp = np.array(data_dict['Temperature'])
         self.air_temp_train_data = np.array(self.air_temp[:int(floor(len(self.air_temp)*train_partition))])
@@ -38,7 +38,7 @@ class Energy_Prediction_Model(object):
         self.time_train_data = np.array(self.time[:int(floor(len(self.time)*train_partition))])
         self.time_test_data = np.array(self.time[int(floor(len(self.time)*train_partition)):])
 
-        assert(len(self.electricity_data) == len(self.steam_data) == len(self.water_data) == len(self.air_temp) == len(self.time))
+        assert(len(self.electricity_data) == len(self.steam_data) == len(self.total_data) == len(self.air_temp) == len(self.time))
 
     def create_features(self, train_partition, avg_delta):
 
@@ -49,13 +49,6 @@ class Energy_Prediction_Model(object):
             hour = time.hour
             air_temp = self.air_temp[i]
             feature = [air_temp, is_weekday, hour]
-            # for delta in deltas:
-            if i >= 20:
-                avg_temp = sum(self.air_temp[i-avg_delta:i]) / float(avg_delta)
-                feature.append(avg_temp)
-            else:
-                avg_temp = sum(self.air_temp[:i]) / float(i+1)
-                feature.append(avg_temp)
             features.append(feature)
 
         self.features_train_data = np.array(features[:int(floor(len(features)*train_partition))])
@@ -64,54 +57,58 @@ class Energy_Prediction_Model(object):
     # we have individual functions so that I can refactor the NN architecture for each
     # prediction
 
-    def train_electricity_model(self, loss, learning_rate=1, epochs=10, batch_size=200):
+    def train_electricity_model(self, loss, learning_rate=0.01, epochs=50, batch_size=256):
         assert(len(self.features_train_data) == len(self.electricity_train_data))
 
         # create model
         input_size = self.features_train_data.shape[1]
         electricity_model = Sequential()
-        electricity_model.add(Dense(input_size, input_dim=input_size, init='normal', activation='relu'))
+        electricity_model.add(Dense(input_size, input_dim=input_size, activation='relu'))
+        electricity_model.add(Dense(input_size, input_dim=input_size, activation='relu'))
         electricity_model.add(Dense(1, init='normal'))
         electricity_model.compile(loss='mean_squared_error', optimizer='sgd')
         electricity_model.fit(self.features_train_data, self.electricity_train_data, nb_epoch = epochs, batch_size=batch_size)
         self.electricity_model = electricity_model
 
-    def train_water_model(self, loss, learning_rate=10, epochs=10, batch_size=200):
-        assert(len(self.features_train_data) == len(self.water_train_data))
+    def train_total_model(self, loss, learning_rate=0.01, epochs=50, batch_size=256):
+        assert(len(self.features_train_data) == len(self.total_train_data))
 
         # create model
         input_size = self.features_train_data.shape[1]
-        water_model = Sequential()
-        water_model.add(Dense(input_size, input_dim=input_size, init='normal', activation='relu'))
-        water_model.add(Dense(1, init='normal'))
-        water_model.compile(loss='mean_squared_error', optimizer='sgd')
-        water_model.fit(self.features_train_data, self.water_train_data, nb_epoch = epochs, batch_size=batch_size)
-        self.water_model = water_model
+        total_model = Sequential()
+        total_model.add(Dense(input_size, input_dim=input_size, activation='relu'))
+        total_model.add(Dense(input_size, input_dim=input_size, activation='relu'))
+        total_model.add(Dense(1, init='normal'))
+        total_model.compile(loss='mean_squared_error', optimizer='sgd')
+        total_model.fit(self.features_train_data, self.total_train_data, nb_epoch = epochs, batch_size=batch_size)
+        self.total_model = total_model
 
-    def train_steam_model(self, loss, learning_rate=0.001, epochs=10, batch_size=500):
+    def train_steam_model(self, loss, learning_rate=0.01, epochs=50, batch_size=256):
         assert(len(self.features_train_data) == len(self.steam_train_data))
 
         # create model
         input_size = self.features_train_data.shape[1]
         steam_model = Sequential()
-        steam_model.add(Dense(input_size, input_dim=input_size, init='normal', activation='relu'))
+        steam_model.add(Dense(input_size, input_dim=input_size, activation='relu'))
+        steam_model.add(Dense(input_size, input_dim=input_size, activation='relu'))
         steam_model.add(Dense(1, init='normal'))
         steam_model.compile(loss='mean_squared_error', optimizer='sgd')
         steam_model.fit(self.features_train_data, self.steam_train_data, nb_epoch = epochs, batch_size=batch_size)
-        self.steam_model = steam_model
+        self.steam_model = steam_model     
 
-    def train(loss):
-        
+    def evaluate(self):
+        print '------'
+        print self.electricity_model.evaluate(self.features_test_data, self.electricity_test_data)
+        print self.steam_model.evaluate(self.features_test_data, self.steam_test_data)
+        print self.total_model.evaluate(self.features_test_data, self.total_test_data)
 
     def predict(self, x):
 
-        # electricity_predictions = self.electricity_model.predict(self.electricity_test_data)
-        # steam_predictions = self.steam_model.predict(self.steam_test_data)
-        # water_predictions = self.water_model.predict(self.water_test_data)
-        # print electricity_predictions, steam_predictions, water_predictions
+        elec, steam, total = self.electricity_model.predict(x), self.steam_model.predict(x), self.total_model.predict(x)
         predictions = {
-            'Electricity' : self.electricity_model.predict(x),
-            'Steam' : self.steam_model.predict(x),
-            'Water' : self.water_model.predict(x),
+            'Electricity' : elec,
+            'Steam' : steam,
+            'Total' : total,
+            'Water' : total-steam-elec
         }
         return predictions
