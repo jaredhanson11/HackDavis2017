@@ -1,4 +1,5 @@
-from requests import get, post
+import requests
+from requests.auth import HTTPBasicAuth
 import json
 
 STREAM_BASE_URL = 'https://bldg-pi-api.ou.ad3.ucdavis.edu/piwebapi/streams/'
@@ -23,7 +24,12 @@ def get_time(data):
         time.append(item['Timestamp'])
     return time
 
-def get_data(length=30, interval=5):
+def call_api(resource_id):
+    url = 'https://bldg-pi-api.ou.ad3.ucdavis.edu/piwebapi/streams/' + resource_id + '/interpolated?startTime=*-30d&interval=1m'
+    json = requests.get(url, auth=HTTPBasicAuth('ou\pi-api-public', 'M53$dx7,d3fP8'))
+    return json
+
+def get_data(buildingDict, length=30, interval=5):
     '''
     :param length is the number of days of data we retrieve (int)
     :param interval is the number of minutes between each tick (int)
@@ -38,12 +44,11 @@ def get_data(length=30, interval=5):
     '''
     # https://bldg-pi-api.ou.ad3.ucdavis.edu/piwebapi/streams/P09KoOKByvc0-uxyvoTV1UfQViQAAAVVRJTC1QSS1QXEFSQ19TVEVBTV9ERU1BTkRfS0JUVQ/interpolated?startTime=*-30d&interval=1m
 
-    # dummy data for now
-    electricity_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_elec.json').read())['Items']
-    steam_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_steam.json').read())['Items']
-    # water_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1m_cwater.json').read())['Items']
-    total_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_total.json').read())['Items']
-    temp_data = json.loads(open('/Users/jaclarke/Documents/HackDavis2017/app/tmp/12_23_1_21_1h_airtemp.json').read())['Items']
+    electricity_data = call_api(buildingDict['electric_id'])
+    steam_data = call_api(buildingDict['electric_id'])
+    temp_data = call_api(buildingDict['steam_id'])
+    total_data = call_api(buildingDict['total_id'])
+    temp_data = call_api(buildingDict['temperature_id'])
 
     electricity_data_list = []
     steam_data_list = []
@@ -70,6 +75,8 @@ def get_data(length=30, interval=5):
     }
 
     return ret
+
+
 
 if __name__ == '__main__':
     get_data()
